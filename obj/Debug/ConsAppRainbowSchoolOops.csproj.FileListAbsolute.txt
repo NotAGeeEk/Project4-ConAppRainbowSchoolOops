@@ -1,0 +1,8 @@
+D:\Project\ConsAppRainbowSchoolOops\ConsAppRainbowSchoolOops\bin\Debug\ConsAppRainbowSchoolOops.exe.config
+D:\Project\ConsAppRainbowSchoolOops\ConsAppRainbowSchoolOops\bin\Debug\ConsAppRainbowSchoolOops.exe
+D:\Project\ConsAppRainbowSchoolOops\ConsAppRainbowSchoolOops\bin\Debug\ConsAppRainbowSchoolOops.pdb
+D:\Project\ConsAppRainbowSchoolOops\ConsAppRainbowSchoolOops\obj\Debug\ConsAppRainbowSchoolOops.csproj.AssemblyReference.cache
+D:\Project\ConsAppRainbowSchoolOops\ConsAppRainbowSchoolOops\obj\Debug\ConsAppRainbowSchoolOops.csproj.SuggestedBindingRedirects.cache
+D:\Project\ConsAppRainbowSchoolOops\ConsAppRainbowSchoolOops\obj\Debug\ConsAppRainbowSchoolOops.csproj.CoreCompileInputs.cache
+D:\Project\ConsAppRainbowSchoolOops\ConsAppRainbowSchoolOops\obj\Debug\ConsAppRainbowSchoolOops.exe
+D:\Project\ConsAppRainbowSchoolOops\ConsAppRainbowSchoolOops\obj\Debug\ConsAppRainbowSchoolOops.pdb
